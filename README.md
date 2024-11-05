@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arptier
-- 🧬 I'm an ORISE postdoc striving to learn bioinformatics in the Enteric Diseases Laboratory Branch at CDC!
-- 🌱 I’m a coding beginner, learning the ropes of 🐧 Linux, 🐍 Python, 🏴‍☠️ R, and :octocat: Git.
+- 🧬 I'm an ORISE postdoc working on bioinformatics projects in the Division for Tuberculosis Elimination on the Applied Research Team at CDC!
+- 🌱 I’m learning the ropes of 🐧 Linux, 🐍 Python, 🚣 Nextflow, and :octocat: Git.
 
 <!---
 arptier/arptier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
